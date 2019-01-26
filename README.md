@@ -1,4 +1,4 @@
-A docker container to build, test and minify hugo websites with wercker.
+A docker container to build, test and minify hugo websites with `Shippable`.
 
 [![docker](http://dockeri.co/image/abhi1010/hugo_015 "docker")](https://registry.hub.docker.com/u/abhi1010/hugo_015/)
 
